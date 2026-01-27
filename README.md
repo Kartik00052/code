@@ -41,42 +41,7 @@ Welcome to my **Daily Data Structures & Algorithms** practice repository!
     ],
     "consistency": "100% committed to daily practice"
 }
-```
 
----
-
-## 📁 Repository Structure
-
-```
-Code/
-│
-├── Arrays/
-│   ├── problem1.py
-│   ├── problem2.py
-│   └── ...
-│
-├── LinkedLists/
-│   ├── problem1.py
-│   └── ...
-│
-├── Trees/
-│   ├── binary_tree_problems.py
-│   └── ...
-│
-├── DynamicProgramming/
-│   ├── fibonacci.py
-│   ├── knapsack.py
-│   └── ...
-│
-├── Graphs/
-│   └── ...
-│
-└── README.md
-```
-
-> *Structure may evolve as I explore more topics!*
-
----
 
 ## 🎯 Topics Covered
 
@@ -101,7 +66,7 @@ Code/
 
 ## 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -139,27 +104,7 @@ def solution():
 
 ---
 
-## 🔥 My Commitment
 
-```python
-class DailyDSAPractice:
-    def __init__(self):
-        self.commitment = "Everyday"
-        self.motivation = "Growth & Excellence"
-        self.streak = "Ongoing"
-    
-    def today_goal(self):
-        return "Solve at least 1 problem with understanding"
-    
-    def long_term_goal(self):
-        return "Master DSA & crack top tech interviews"
-
-practice = DailyDSAPractice()
-print(f"Today's Goal: {practice.today_goal()}")
-print(f"Long-term Vision: {practice.long_term_goal()}")
-```
-
----
 
 ## 📚 Resources I'm Using
 
@@ -201,19 +146,7 @@ Building expertise in **AI/ML** while strengthening DSA fundamentals!
 
 ---
 
-## ⚡ Fun Fact
 
-```python
-problems_solved = 0
-coffee_consumed = float('inf')
-
-while True:
-    solve_daily_problem()
-    problems_solved += 1
-    coffee_consumed += 1
-    if problems_solved == dream_job:
-        break
-```
 
 ---
 
